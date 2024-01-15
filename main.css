@@ -1,0 +1,33 @@
+#bodi {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+
+p {
+    color: black;
+    font-size: large;
+}
+
+#rende {
+    color: white;
+    font-weight: 650;
+    align-self: center;
+}
+
+#oppo {
+    flex-direction: column;
+}
+
+button {
+    display: flex;
+}
+
+#mata {
+    align-self: center;
+    padding-left: 10px;
+}
+
+#pic {
+    margin: 10px;
+}
